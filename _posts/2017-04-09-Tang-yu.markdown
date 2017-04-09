@@ -3,6 +3,6 @@ published: true
 ---
 A New Post
 
-![]({{site.baseurl}}/_posts/%E8%83%8C%E6%99%AF1.jpg)
+![80 - Spotlight.png]({{site.baseurl}}/_posts/80 - Spotlight.png)
 
 
