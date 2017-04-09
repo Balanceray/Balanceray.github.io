@@ -3,6 +3,6 @@ published: true
 ---
 A New Post
 
-![]({{site.baseurl}}/_posts/n17608880_small.jpg)![n17608880_small.jpg]({{site.baseurl}}/_posts/n17608880_small.jpg)
+![]({{site.baseurl}}/_posts/%E8%83%8C%E6%99%AF1.jpg)
 
 
